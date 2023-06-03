@@ -15,7 +15,7 @@ import tailwind from './tech/tailwind.png';
 import threejs from './tech/threejs.svg';
 import sql from './tech/sql.svg';
 import php from './tech/php.svg';
-import coldFusion from './tech/coldfusion.png';
+import coldFusion from './tech/coldFusion.png';
 
 import umn from './company/umn.png';
 import jala from './company/jala.png';
