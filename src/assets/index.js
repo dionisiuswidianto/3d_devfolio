@@ -3,7 +3,6 @@ import backend from './backend.png';
 import creator from './creator.png';
 import mobile from './mobile.png';
 import web from './web.png';
-// import github from './github.png';
 import menu from './menu.svg';
 import close from './close.svg';
 
@@ -17,7 +16,7 @@ import threejs from './tech/threejs.svg';
 import sql from './tech/sql.svg';
 import axure from './tech/axure.png';
 import php from './tech/php.svg';
-import coldFusion from './tech/coldfusion.png';
+import coldFusion from './tech/coldFusion.png';
 
 import vegas from './tech/vegas.png';
 import umn from './company/umn.png';
