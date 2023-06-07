@@ -12,16 +12,12 @@ import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import reactjs from './tech/reactjs.png';
 import tailwind from './tech/tailwind.png';
-import threejs from './tech/threejs.svg';
-import sql from './tech/sql.svg';
-import php from './tech/php.svg';
 
 import umn from './company/umn.png';
 import jala from './company/jala.png';
 import freelance from './company/freelance.png';
 import pasas from './company/pasas.png';
 
-import nodejs from './tech/nodejs.png';
 import koperasimobile from './KoperasiMobile.png';
 import salontablet from './SalonTablet.png';
 import inventoryweb from './InventoryWeb.png';
@@ -47,10 +43,6 @@ export {
   javascript,
   reactjs,
   tailwind,
-  nodejs,
-  threejs,
-  sql,
-  php,
   umn,
   jala,
   freelance,
