@@ -16,10 +16,6 @@ import {
   jala,
   freelance,
   pasas,
-  nodejs,
-  threejs,
-  sql,
-  php,
   andreas,
   heri,
   iqi,
@@ -77,24 +73,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "PHP",
-    icon: php,
-  },
-  {
-    name: "SQL",
-    icon: sql,
   },
   {
     name: "Figma",
