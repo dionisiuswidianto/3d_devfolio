@@ -108,7 +108,7 @@ const experiences = [
     ],
   },
   {
-    title: "Fullstack Developer Internship",
+    title: "Web Developer Intern",
     company_name: "PT Jala Informatica",
     icon: jala,
     iconBg: "#E6DEDD",
@@ -123,7 +123,7 @@ const experiences = [
     ],
   },
   {
-    title: "UI / UX Designer",
+    title: "UI / UX Designer Intern",
     company_name: "PT Jala Informatica",
     icon: jala,
     iconBg: "#E6DEDD",
